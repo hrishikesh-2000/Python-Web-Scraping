@@ -1,3 +1,3 @@
-# Python-Web-Scrapping
+# Flipkart Camera Web Scraping Project 📸
 Hello!
-Given is a Jupyter notebook file made to scrape the flipkart website to get all necessary information about cameras. The steps and procedure are written down in the notebook only to understand the code.
+Hello! This Jupyter notebook is designed to scrape camera information from the Flipkart website. It retrieves essential details like camera specifications, pricing, and availability, organized in a structured format. Each step of the code is documented within the notebook for easy understanding and reproducibility. This project leverages Python libraries like BeautifulSoup and requests for data extraction and provides insights into effective web scraping techniques.
